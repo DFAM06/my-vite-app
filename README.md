@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+
+
+Si se desea utilizar el programa, primero se debe ejecutar npm install en la terminal del directorio
