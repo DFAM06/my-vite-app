@@ -1,0 +1,134 @@
+[
+{
+    "id": "1",
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genre": "Heroes",
+    "rating": 4.7,
+    "posterUrl": "https://img.fruugo.com/product/0/24/99800240_max.jpg",
+    "description": "Spiderman se debe enfrentar a un nuevo villano.",
+    "duration": "2:07 horas",
+    "director": "Sam Raimi"
+},
+{
+    "id": "2",
+    "title": "Star Wars Return of the Jedi",
+    "year": 1983,
+    "genre": "Space Opera",
+    "rating": 4.8,
+    "posterUrl": "https://i.ebayimg.com/images/g/k74AAOSwn9Vaff2R/s-l1200.jpg",
+    "description": "La batalla entre la rebelión y el imperio llega a su fin, mientras Luke se debe enfrentar a su padre y al emperador.",
+    "duration": "2:14 horas",
+    "director": "Richard Marquand & George Lucas"
+},
+{
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Heroes",
+    "rating": 4.9,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "description": "Batman enfrenta al Joker, un criminal caótico que busca sembrar el caos en Gotham.",
+    "duration": "2:32 horas",
+    "director": "Christopher Nolan"
+},
+{
+    "id": "4",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genre": "Heroes",
+    "rating": 4.8,
+    "posterUrl": "https://rukminim2.flixcart.com/image/480/640/xif0q/poster/3/q/j/medium-avengers-infinity-war-framed-poster-for-room-office-10-original-imahbabw3zyygk7n.jpeg?q=90",
+    "description": "Los Vengadores intentan detener a Thanos antes de que consiga las Gemas del Infinito.",
+    "duration": "2:29 horas",
+    "director": "Anthony Russo & Joe Russo"
+},
+{
+    "id": "5",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "rating": 4.8,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOo5-5MN3sNr6jgQZuY-FG4OJkEaXYaqoKQ&s",
+    "description": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+    "duration": "2:49 horas",
+    "director": "Christopher Nolan"
+},
+{
+    "id": "6",
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Historical",
+    "rating": 4.7,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzwg58zBlqmJ90Upb_WTsTGXbYN_BOwe6Dg&s",
+    "description": "Un general romano traicionado busca vengar la muerte de su familia en la arena del coliseo.",
+    "duration": "2:35 horas",
+    "director": "Ridley Scott"
+},
+{
+    "id": "7",
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 4.8,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5WN7e7ohuYEFBf24cJSH2rPLsUhWZKgqh-Q&s",
+    "description": "Un ladrón especializado en robar secretos a través de los sueños recibe una misión imposible.",
+    "duration": "2:28 horas",
+    "director": "Christopher Nolan"
+},
+{
+    "id": "8",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Fantasy",
+    "rating": 4.9,
+    "posterUrl": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+    "description": "Un hobbit emprende un viaje épico para destruir un anillo con un poder oscuro.",
+    "duration": "2:58 horas",
+    "director": "Peter Jackson"
+},
+{
+    "id": "9",
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "rating": 4.7,
+    "posterUrl": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+    "description": "Un programador descubre que la realidad que conoce es una simulación controlada por máquinas.",
+    "duration": "2:16 horas",
+    "director": "Lana Wachowski & Lilly Wachowski"
+},
+{
+    "id": "10",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Adventure",
+    "rating": 4.6,
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBLD1HVIDFLRIetlBjtTY8buA170M_2cC1A&s",
+    "description": "Un parque temático con dinosaurios clonados se convierte en una lucha por la supervivencia.",
+    "duration": "2:07 horas",
+    "director": "Steven Spielberg"
+},
+{
+    "id": "11",
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Romance",
+    "rating": 4.6,
+    "posterUrl": "https://m.media-amazon.com/images/I/7199jtmPkrL._AC_SL1500_.jpg",
+    "description": "Una historia de amor surge a bordo del famoso transatlántico condenado al desastre.",
+    "duration": "3:14 horas",
+    "director": "James Cameron"
+},
+{
+    "id": "12",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 4.9,
+    "posterUrl": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+    "description": "Un hombre condenado injustamente encuentra esperanza y amistad en prisión.",
+    "duration": "2:22 horas",
+    "director": "Frank Darabont"
+}
+]
